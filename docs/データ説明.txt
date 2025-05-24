@@ -1,0 +1,7 @@
+ファイル名	内容
+train_annotation.csv	訓練データ
+train.csv	訓練データの声紋情報
+test.csv	テストデータの声紋情報
+sample_submission.csv	投稿データフォーマット
+train.zip	訓練データの音声
+test.zip	テストデータの音声
