@@ -1,0 +1,8 @@
+pyannote.metrics
+librosa
+SoundFile
+pandas
+numpy
+scikit-learn
+jupyter
+matplotlib
